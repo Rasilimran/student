@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\number problems\number problems\bin\Debug\number problems.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\number problems\number problems\bin\Debug\number problems.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\number problems\number problems\obj\Debug\number problems.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\number problems\number problems\obj\Debug\number problems.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\number problems\number problems\obj\Debug\number problems.csprojResolveAssemblyReference.cache
